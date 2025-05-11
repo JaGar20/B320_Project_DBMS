@@ -1,0 +1,5 @@
+﻿StudentClassificationID,Description,MinCreditHours,MaxCreditHours
+1,Freshmen,0,29
+2,Sophmore,30,59
+3,Junior,60,89
+4,Senior,90,500

@@ -1,0 +1,65 @@
+﻿SubjectID,DepartmentID,Subject,SubjectName
+1,1,ACCT, Accounting
+2,5,AFAM, African Amer Studies
+3,5,ANTH, Anthropology
+4,3,ARTE, Art Education
+5,3,ARTH, Art History
+6,3,ARTS, Art Studio
+7,9,ASTR, Astronomy
+8,1,BADM, Business Administration
+9,9,BIOL, Biology
+10,9,CHEM, Chemistry
+11,1,COMM, Communications
+12,3,CPLT, Comparative Literature
+13,6,CSCI, Computer Science
+14,6,CSXE, Computational Engr
+15,1,ECON, Economics
+16,2,EDCI," Curriculum, Instruction"
+17,2,EDEC, Early Childhood Educ
+18,2,EDEL, Elementary Education
+19,2,EDEX, Exceptional Children
+20,2,EDFO, Educ - Foundations
+21,2,EDME, Mathematics Education
+22,2,EDPH, Physical Education
+23,2,EDPY, Educational Psychology
+24,2,EDRD, Reading
+25,2,EDRM, Research & Measurement
+26,3,ENGL, English
+27,6,ENGR, Engineering
+28,4,ENTR, Entrepreneurship
+29,5,FREN, French
+30,5,GEOG, Geography
+31,5,GERM, German
+32,5,GLST, Global Studies
+33,5,HIST, History
+34,8,HMSV, Human Services
+35,5,HONS, Honors
+36,8,HPRO, Health Promotion
+37,4,HRTM, Hotel Rest Tourism Mgmt
+38,3,IDST, Interdisciplnry Studies
+39,NULL,INTL, Intl Study Abroad
+40,6,ISAT, Info Science & Tech
+41,5,LANG, Language Studies
+42,3,LBST, Liberal Studies
+43,5,LING, Linguistics
+44,3,MART, Media Arts
+45,6,MATH, Mathematics
+46,1,MGMT, Management
+47,1,MGSC, Management Science
+48,1,MKTG, Marketing
+49,9,MSCI, Marine Science
+50,3,MUSC, Music
+51,7,NURS, Nursing
+52,8,PEDU, Physical Education
+53,5,PHIL, Philosophy
+54,9,PHYS, Physics
+55,5,POLI, Political Science
+56,5,PSYC, Psychology
+57,8,PUBH, Public Health
+58,5,RELG, Religious Studies
+59,5,SOCY, Sociology
+60,5,SPAN, Spanish
+61,4,SPRT, Sport Management
+62,6,STAT, Statistics
+63,3,THEA, Theatre
+64,5,UNIV, University Experience

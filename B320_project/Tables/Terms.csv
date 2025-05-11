@@ -1,0 +1,91 @@
+TermsID,Semester,Year,TermType,StartDate,EndDate
+1,Fall,2015,20 - Beaufort Full Term,NULL,NULL
+2,Fall,2015,2B - Beaufort Second Half Term,NULL,NULL
+3,Fall,2015,2A - Beaufort First Half Term,NULL,NULL
+4,Fall,2016,2A - Beaufort First Half Term,NULL,NULL
+5,Fall,2016,20 - Beaufort Full Term,NULL,NULL
+6,Fall,2016,2B - Beaufort Second Half Term,NULL,NULL
+7,Spring,2016,2B - Beaufort Second Half Term,NULL,NULL
+8,Spring,2016,20 - Beaufort Full Term,NULL,NULL
+9,Spring,2016,2A - Beaufort First Half Term,NULL,NULL
+10,Summer,2016,2SB - Beaufort Summer 2nd Half Term,NULL,NULL
+11,Summer,2016,2SD - Beaufort Summer Full Term,NULL,NULL
+12,Summer,2016,2SA - Beaufort Summer 1st Half Term,NULL,NULL
+13,Summer,2016,2S1 - Beaufort Summer May Term,NULL,NULL
+14,Fall,2017,2A - Beaufort First Half Term,NULL,NULL
+15,Fall,2017,20 - Beaufort Full Term,NULL,NULL
+16,Fall,2017,2B - Beaufort Second Half Term,NULL,NULL
+17,Spring,2017,2A - Beaufort First Half Term,NULL,NULL
+18,Spring,2017,2B - Beaufort Second Half Term,NULL,NULL
+19,Spring,2017,20 - Beaufort Full Term,NULL,NULL
+20,Summer,2017,2SA - Beaufort Summer 1st Half Term,NULL,NULL
+21,Summer,2017,2S1 - Beaufort Summer May Term,NULL,NULL
+22,Summer,2017,2SD - Beaufort Summer Full Term,NULL,NULL
+23,Summer,2017,2SB - Beaufort Summer 2nd Half Term,NULL,NULL
+24,Fall,2018,2B - Beaufort Second Half Term,NULL,NULL
+25,Fall,2018,20 - Beaufort Full Term,NULL,NULL
+26,Fall,2018,2A - Beaufort First Half Term,NULL,NULL
+27,Spring,2018,2A - Beaufort First Half Term,NULL,NULL
+28,Spring,2018,2B - Beaufort Second Half Term,NULL,NULL
+29,Spring,2018,20 - Beaufort Full Term,NULL,NULL
+30,Summer,2018,2SA - Beaufort Summer 1st Half Term,NULL,NULL
+31,Summer,2018,2SD - Beaufort Summer Full Term,NULL,NULL
+32,Summer,2018,2S1 - Beaufort Summer May Term,NULL,NULL
+33,Summer,2018,2SB - Beaufort Summer 2nd Half Term,NULL,NULL
+34,Fall,2019,20 - Beaufort Full Term,NULL,NULL
+35,Fall,2019,2B - Beaufort Second Half Term,NULL,NULL
+36,Fall,2019,2A - Beaufort First Half Term,NULL,NULL
+37,Spring,2019,2A - Beaufort First Half Term,NULL,NULL
+38,Spring,2019,2B - Beaufort Second Half Term,NULL,NULL
+39,Spring,2019,20 - Beaufort Full Term,NULL,NULL
+40,Summer,2019,2SB - Beaufort Summer 2nd Half Term,NULL,NULL
+41,Summer,2019,2SD - Beaufort Summer Full Term,NULL,NULL
+42,Summer,2019,2S1 - Beaufort Summer May Term,NULL,NULL
+43,Summer,2019,2SA - Beaufort Summer 1st Half Term,NULL,NULL
+44,Fall,2020,2A - Beaufort First Half Term,NULL,NULL
+45,Fall,2020,20 - Beaufort Full Term,NULL,NULL
+46,Fall,2020,2B - Beaufort Second Half Term,NULL,NULL
+47,Spring,2020,2A - Beaufort First Half Term,NULL,NULL
+48,Spring,2020,2B - Beaufort Second Half Term,NULL,NULL
+49,Spring,2020,20 - Beaufort Full Term,NULL,NULL
+50,Summer,2020,2SD - Beaufort Summer Full Term,NULL,NULL
+51,Summer,2020,2SA - Beaufort Summer 1st Half Term,NULL,NULL
+52,Summer,2020,2S1 - Beaufort Summer May Term,NULL,NULL
+53,Summer,2020,2SB - Beaufort Summer 2nd Half Term,NULL,NULL
+54,Fall,2021,2B - Beaufort Second Half Term,NULL,NULL
+55,Fall,2021,30 - Columbia Full Term,NULL,NULL
+56,Fall,2021,20 - Beaufort Full Term,NULL,NULL
+57,Fall,2021,2A - Beaufort First Half Term,NULL,NULL
+58,Spring,2021,2A - Beaufort First Half Term,NULL,NULL
+59,Spring,2021,2B - Beaufort Second Half Term,NULL,NULL
+60,Spring,2021,20 - Beaufort Full Term,NULL,NULL
+61,Summer,2021,2SA - Beaufort Summer 1st Half Term,NULL,NULL
+62,Summer,2021,2S1 - Beaufort Summer May Term,NULL,NULL
+63,Summer,2021,2SD - Beaufort Summer Full Term,NULL,NULL
+64,Summer,2021,2SB - Beaufort Summer 2nd Half Term,NULL,NULL
+65,Fall,2022,2A - Beaufort First Half Term,NULL,NULL
+66,Fall,2022,20 - Beaufort Full Term,NULL,NULL
+67,Fall,2022,2B - Beaufort Second Half Term,NULL,NULL
+68,Spring,2022,2A - Beaufort First Half Term,NULL,NULL
+69,Spring,2022,20 - Beaufort Full Term,NULL,NULL
+70,Spring,2022,2B - Beaufort Second Half Term,NULL,NULL
+71,Summer,2022,2SB - Beaufort Summer 2nd Half Term,NULL,NULL
+72,Summer,2022,2SD - Beaufort Summer Full Term,NULL,NULL
+73,Summer,2022,2SA - Beaufort Summer 1st Half Term,NULL,NULL
+74,Summer,2022,2S1 - Beaufort Summer May Term,NULL,NULL
+75,Fall,2023,20 - Beaufort Full Term,NULL,NULL
+76,Fall,2023,2A - Beaufort First Half Term,NULL,NULL
+77,Fall,2023,2B - Beaufort Second Half Term,NULL,NULL
+78,Spring,2023,20 - Beaufort Full Term,NULL,NULL
+79,Spring,2023,2B - Beaufort Second Half Term,NULL,NULL
+80,Spring,2023,2A - Beaufort First Half Term,NULL,NULL
+81,Summer,2023,2S1 - Beaufort Summer May Term,NULL,NULL
+82,Summer,2023,2SA - Beaufort Summer 1st Half Term,NULL,NULL
+83,Summer,2023,2SD - Beaufort Summer Full Term,NULL,NULL
+84,Summer,2023,2SB - Beaufort Summer 2nd Half Term,NULL,NULL
+85,Fall,2024,2B - 2B - BFT Second Half Term,NULL,NULL
+86,Fall,2024,20 - 20 - BFT Full Term,NULL,NULL
+87,Fall,2024,2A - 2A - BFT First Half Term,NULL,NULL
+88,Spring,2024,2A - Beaufort First Half Term,NULL,NULL
+89,Spring,2024,20 - Beaufort Full Term,NULL,NULL
+90,Spring,2024,2B - Beaufort Second Half Term,NULL,NULL
